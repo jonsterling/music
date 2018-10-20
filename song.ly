@@ -1,3 +1,5 @@
+\version "2.18.2"
+
 timeKey = {
   \key g \minor
   \time 6/8
@@ -42,6 +44,11 @@ secondPart = {
   e, b, fis gis a b
 }
 
+\header {
+  title = "(Composition)"
+  composer = "J. M. Sterling"
+  tagline = ##f
+}
 
 \score {
   \new PianoStaff = Keyboard <<
