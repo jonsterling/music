@@ -14,8 +14,13 @@ firstPart = {
   ees''4 bes'' cis''8 d'' |
   ees''4 c'' a' |
   bes'4 d' b' |
-  c''4 g' g''
-
+  c''4 g' g'' |
+  <a' ees''~>4 <fis' gis' ees''> <cis'' e''>8 <d'' f''>|
+  <c'' ees''~ ges''~>4 <b' ees'' ges''> <b' f''> |
+  <a' des'' ges''>2 r4 |
+  <f' aes' des''~>4 <e' g' des''> <g' bes' ees''>8 <gis' b' e''>|
+  <a' c'' f''>2. |
+  <bes' fis''>4 <e' c''> <g' ees''>
 }
 
 secondPart = {
@@ -28,7 +33,13 @@ secondPart = {
   g8 bes c ees bes b |
   c'8 bes a g f ees |
   d8 f bes aes g f |
-  ees8 g c' d' ees' f'
+  ees8 g c' d' ees' f'|
+  g'8 ees' d' cis' c' b|
+  bes8 a aes d des g, |
+  ges,8 des ges aes a b |
+  d'8 c' b fis8 f e |
+  ees b, g, b, d, ees, |
+  e, b, fis gis a b
 }
 
 
