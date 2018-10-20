@@ -1,8 +1,3 @@
-%% http://lsr.di.unimi.it/LSR/Item?id=656
-%% see also http://lilypond.org/doc/v2.18/Documentation/notation/graphic
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 timeKey = {
   \key g \minor
   \time 6/8
@@ -54,9 +49,6 @@ secondPart = {
   \layout {
     \context {
       \Score
-      % Prevents hidden grace from influencing spacing in lower staff
-      % but can be left out if other grace notes are affected
-      \override SpacingSpanner.strict-grace-spacing = ##t
     }
   }
   \midi {}
